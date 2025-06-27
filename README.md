@@ -82,12 +82,3 @@ README.md                     # Project documentation
    ```bash
    jupyter notebook Black_Friday_(Hitesh).ipynb
    ```
-
-## 📬 Contact
-
-For any suggestions or feedback, please feel free to connect with **Hitesh** via GitHub or email.
-
----
-
-Would you like me to save this as a downloadable `README.md` file?
-
